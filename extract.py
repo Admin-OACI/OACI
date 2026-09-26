@@ -42,35 +42,45 @@ def save_image(src, folder):
 
 def main():
     os.makedirs("pages", exist_ok=True)
+    os.makedirs("images", exist_ok=True)
+    saved_pages = 0
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page(viewport={"width": 1440, "height": 900})
         for slug, path in PAGES.items():
             url = BASE + path
             print("Fetching", url)
-            page.goto(url, wait_until="networkidle", timeout=120000)
-            page.wait_for_timeout(3000)
-            page.evaluate("async () => { for (let y=0; y<document.body.scrollHeight; y+=800) { window.scrollTo(0,y); await new Promise(r=>setTimeout(r,150)); } }")
-            page.evaluate(STRIP_JS)
-            text = page.evaluate("() => document.body.innerText")
-            text = re.sub(r"\n{3,}", "\n\n", text).strip()
-            imgs = page.evaluate("""() => Array.from(document.images)
-                .filter(i => i.offsetParent !== null)
-                .map(i => ({src: i.currentSrc || i.src, alt: i.alt || ''}))""")
-            folder = os.path.join("images", slug)
-            os.makedirs(folder, exist_ok=True)
-            lines, seen = [], set()
-            for im in imgs:
-                src = im["src"]
-                if not src or src.startswith("data:") or src in seen:
-                    continue
-                seen.add(src)
-                saved = save_image(src, folder)
-                if saved:
-                    lines.append(f"- {saved} | {im['alt']}")
-            with open(f"pages/{slug}.md", "w", encoding="utf-8") as f:
-                f.write(f"# {slug}\n\nSource: {url}\n\n{text}\n\n## Images\n\n" + "\n".join(lines) + "\n")
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=120000)
+                page.wait_for_timeout(6000)
+                page.evaluate("async () => { for (let y=0; y<document.body.scrollHeight; y+=800) { window.scrollTo(0,y); await new Promise(r=>setTimeout(r,150)); } }")
+                page.wait_for_timeout(1500)
+                page.evaluate(STRIP_JS)
+                text = page.evaluate("() => document.body.innerText")
+                text = re.sub(r"\n{3,}", "\n\n", text).strip()
+                imgs = page.evaluate("""() => Array.from(document.images)
+                    .filter(i => i.offsetParent !== null)
+                    .map(i => ({src: i.currentSrc || i.src, alt: i.alt || ''}))""")
+                folder = os.path.join("images", slug)
+                os.makedirs(folder, exist_ok=True)
+                lines, seen = [], set()
+                for im in imgs:
+                    src = im["src"]
+                    if not src or src.startswith("data:") or src in seen:
+                        continue
+                    seen.add(src)
+                    saved = save_image(src, folder)
+                    if saved:
+                        lines.append(f"- {saved} | {im['alt']}")
+                with open(f"pages/{slug}.md", "w", encoding="utf-8") as f:
+                    f.write(f"# {slug}\n\nSource: {url}\n\n{text}\n\n## Images\n\n" + "\n".join(lines) + "\n")
+                saved_pages += 1
+            except Exception as e:
+                print("  page skipped:", slug, e)
         browser.close()
+    print("Pages saved:", saved_pages)
+    if saved_pages == 0:
+        raise SystemExit("No pages saved")
 
 if __name__ == "__main__":
     main()
