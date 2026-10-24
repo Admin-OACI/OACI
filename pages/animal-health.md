@@ -29,7 +29,7 @@ A common international framework exists. National capacity is uneven. What neith
 
 A shared framework already governs animal health worldwide: the World Organisation for Animal Health (WOAH) standards, the World Animal Health Information System (WAHIS) for disease notification, and the Performance of Veterinary Services (PVS) Pathway for capacity evaluation. What the framework does not produce is collaboration in the daily work.
 
-Veterinary services range from well-resourced and accredited to thinly staffed, with a single district officer covering an area that takes a day to cross and case records kept on paper. Whatever a country’s level, the veterinary service, the laboratories, the district offices, the producers and the trade authority each do their part, and the collaboration between them depends on who happens to know whom.
+Veterinary services range from well-resourced and accredited to thinly staffed, with a single district officer covering an area that takes a day to cross and case records kept on paper. Whatever a country's level, the veterinary service, the laboratories, the district offices, the producers and the trade authority each do their part, and the collaboration between them depends on who happens to know whom.
 
 The gap is not capacity. A well-resourced service feels it as fragmentation, a thinly resourced one as fragility, and in both it sits between institutions rather than inside any of them. Building capacity will not close it on its own. The collaboration between institutions needs a standing home: who holds each position today, which procedure is current, and whether a finding reached the people who must act on it. Where capacity is uneven, that same collaboration shows a district which laboratory can run the method it needs, and who to contact there.
 
@@ -38,11 +38,11 @@ A PVS evaluation finds the gaps. What costs a country is how many are still open
 
 The WAHIS clock runs for every significant disease event: detect it, verify it, notify within the required window. The delays behind a late or uncertain notification rarely sit inside one office. A sample waits on a laboratory. A report waits on a district. Trading partners answer slow or uncertain reporting with blunt, country-wide restrictions that outlast the event.
 
-A Performance of Veterinary Services evaluation names the gaps in writing: emergency coordination, workforce continuity, laboratory linkage. Closing each depends on another office, another level or a partner doing its part, and following it up falls to whoever has time. The same gap appears in the next mission’s report.
+A Performance of Veterinary Services evaluation names the gaps in writing: emergency coordination, workforce continuity, laboratory linkage. Closing each depends on another office, another level or a partner doing its part, and following it up falls to whoever has time. The same gap appears in the next mission's report.
 
 Mortality is the smallest part of what an animal health event costs. An export channel can close overnight, and for a pastoralist household the herd is its savings. The veterinary service sees the deaths, the trade ministry the closed market, the finance ministry the fiscal hole. No one sees the whole while the event is running.
 
-A Minister of Agriculture is asked how the livestock sector is doing against the country’s own WOAH obligations. Between PVS missions, that answer is assembled for the occasion, or taken from the last report.
+A Minister of Agriculture is asked how the livestock sector is doing against the country's own WOAH obligations. Between PVS missions, that answer is assembled for the occasion, or taken from the last report.
 
 The cost is counted in markets closed, herds lost, and the same gap found twice.
 
@@ -71,7 +71,7 @@ Every finding has an owner and closes with evidence.
 
 A finding from an event, an exercise or a PVS mission goes to the position that holds the fix, in whichever office it sits, and closes on the evidence the fix produced.
 
-The people in this work are not all government staff. The private veterinarian who saw the herd first, the abattoir, the producer association, the trader and the laboratory running the method each hold part of what an event needs. Each works in the role it is given, without access to the service’s national systems.
+The people in this work are not all government staff. The private veterinarian who saw the herd first, the abattoir, the producer association, the trader and the laboratory running the method each hold part of what an event needs. Each works in the role it is given, without access to the service's national systems.
 
 When the four hold, an event does not begin with a scramble. The people are known, the procedure is current, the alert has arrived, and the team has exercised on the same structure it will use for real.
 
@@ -98,7 +98,7 @@ Peste des petits ruminants, foot-and-mouth disease and African swine fever are d
 
 Vaccination Campaigns
 
-Who holds each district’s campaign position, which cold-chain procedure is current, and which under-covered districts are still open are all known during the campaign, so a district is closed while the campaign is running, not discovered after it.
+Who holds each district's campaign position, which cold-chain procedure is current, and which under-covered districts are still open are all known during the campaign, so a district is closed while the campaign is running, not discovered after it.
 
 Producers and Private Veterinarians
 
@@ -112,16 +112,16 @@ National systems stay in place and remain the systems of record. What moves betw
 PROVEN AT NATIONAL SCALE
 The way of working is proven. Africa does not pay to build it again.
 
-The space between institutions has been run as infrastructure for more than twenty years, across a whole country’s agriculture, health and emergency agencies, through real events and real corrective actions. Veterinary, food and human laboratories kept their own authority and their own records, and the signal still moved between them.
+The space between institutions has been run as infrastructure for more than twenty years across the United States — the health, agriculture and emergency agencies of all fifty states, co-funded by the Food and Drug Administration, the Department of Agriculture and the Department of Homeland Security, through real events and real corrective actions. Laboratories kept their own authority and their own records, and the signal still moved between them.
 
-No African country funds that build. OACI is an African-incorporated, African-controlled non-profit that adapts it. What a country contributes goes to adapting and running its own layer, and every country that joins lowers the cost for the others.
+No African country funds that build. OACI is an African-incorporated, African-controlled non-profit that adapts it. What a country contributes goes to adapting and running its own infrastructure, and every country that joins lowers the cost for the others.
 
 CROSS-DOMAIN RESPONSE
 When the same event is also in people
 
 Each ministry sees what the other cannot.
 
-Unusual abortions in a district’s goats may matter to the clinic eleven kilometres away. An unexplained human cluster may change what the service investigates in the herds. Neither ministry is the other’s early warning. Each holds something the other needs.
+Unusual abortions in a district's goats may matter to the clinic eleven kilometres away. An unexplained human cluster may change what the service investigates in the herds. Neither ministry is the other's early warning. Each holds something the other needs.
 
 When the country is ready, the health ministry joins the same layer with its own positions, procedures and findings, working the same event as a peer, not a guest.
 
@@ -132,7 +132,7 @@ An export certification backlog, a PVS gap that will not close, a vaccination ca
 
 What the first year produces is a measurement, not a verdict: which positions are filled, which procedures are current, which findings have closed. Improvement starts from there.
 
-When the country is ready, the health ministry and the neighbouring service join the same layer. Cross-border work is the return on a decision made at home, not the price of entry. No second procurement, and no ministry becomes a guest in another’s system.
+When the country is ready, the health ministry and the neighbouring service join the same layer. Cross-border work is the return on a decision made at home, not the price of entry. No second procurement, and no ministry becomes a guest in another's system.
 
 Public Health Combined
 

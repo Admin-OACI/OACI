@@ -222,6 +222,13 @@ Targets set by the country.
 National records stay on national systems.
 Existing systems remain in place.
 Illustrative view.
+PROVEN AT NATIONAL SCALE
+The way of working is proven. Africa does not pay to build it again.
+
+The space between institutions has been run as infrastructure for more than twenty years across the United States — the health, agriculture and emergency agencies of all fifty states, co-funded by the Food and Drug Administration, the Department of Agriculture and the Department of Homeland Security, through real events and real corrective actions. Laboratories kept their own authority and their own records, and the signal still moved between them.
+
+No African country funds that build. OACI is an African-incorporated, African-controlled non-profit that adapts it. What a country contributes goes to adapting and running its own infrastructure, and every country that joins lowers the cost for the others.
+
 HOW A COUNTRY BEGINS
 A country enters through its most pressing priority, and grows in whatever direction it needs.
 
