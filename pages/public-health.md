@@ -130,14 +130,23 @@ Readiness becomes something a country can see today, rather than reconstruct fro
 The OACI Platform holds this layer on Government-Standard Security, with the government always the data controller. The OACI Platform page carries the security, sovereignty and integration detail.
 
 CAPABILITIES
-Eight conditions carry the work, whatever the event turns out to be.
+Nine conditions carry the work, whatever the event turns out to be.
 
 Collaboration fails in the same few ways whether the trigger is an infectious disease, a chemical release or contaminated food, and each is visible long before anything happens.
 
 DELIVERY CONFIRMED
 Did last month's alert actually reach anyone?
 
-Alerts reach the positions that need them in both ministries at the same time, rather than travelling from one institution to the other, across email, text message and voice, with delivery confirmed for each recipient. Indicators from both ministries sit on one dashboard for the epidemiologists who read them. An alert nobody answers escalates on a timer rather than waiting.
+Alerts reach the positions that need them in both ministries at the same time, rather than travelling from one institution to the other, across email, text message and voice, with delivery confirmed for each recipient. An alert nobody answers escalates on a timer rather than waiting.
+
+ONE VIEW OF BOTH
+What is the other ministry seeing this week?
+
+One view shows both ministries at once: human cases by district and week, animal cases by district and week, laboratory results, and reports of unusual events. Each ministry decides what it puts there.
+
+An epidemiologist in either ministry can open it and look. No email, no meeting, no waiting. They can look before anyone has called it an event.
+
+Some patterns only appear when you can see both. Comparing what is happening in people with what is happening in animals is how zoonotic events have been found for as long as the field has existed. What changes here is that you can do it on any day, not only after someone asks.
 
 A CURRENT DIRECTORY
 Who holds the animal health focal point in that province, today?

@@ -151,4 +151,4 @@ EMERGENCY RESPONSE
 
 ## Images
 
-- images/animal-health/57dc26214a765101599387f464b62697.webp | District veterinary team, diagnostic lab, and abattoir inspection line
+- images/animal-health/57dc26214a765101599387f464b62697.webp | District veterinary team, diagnostic lab and abattoir inspection line
