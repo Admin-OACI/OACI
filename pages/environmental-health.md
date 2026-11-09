@@ -207,6 +207,15 @@ No ministry funds the build. A country inherits more than two decades of continu
 
 The OACI Platform holds this layer on Government-Standard Security, with the government always the data controller. The OACI Platform page carries the security, sovereignty and integration detail.
 
+PROVEN AT NATIONAL SCALE
+The way of working is proven. Africa does not pay to build it again.
+
+For more than twenty years, one collaboration infrastructure has connected human health, animal health, food, environmental and emergency response laboratories and teams across United States federal agencies and all fifty states, co-funded by the food safety, agriculture and homeland security authorities.
+
+OACI does not build Africa’s collaboration infrastructure from scratch. It is leveraging the infrastructure proven in the United States: building on it and adapting it to Africa’s own institutions, priorities and needs, as an African system, African-owned and African-governed.
+
+No African country funds the build. What each country contributes goes to adapting and running OACI, and every country that joins lowers the cost for the others. OACI is designed so that what works in one country is carried into the next instead of started again. Development partners and funders can support a country’s use of OACI instead of commissioning another separate build: the funder keeps the credit, the country keeps the capability, and the investment compounds.
+
 CAPABILITIES
 Eleven conditions carry the work, whatever the finding turns out to be.
 

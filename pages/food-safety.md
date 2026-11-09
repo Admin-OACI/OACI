@@ -14,25 +14,13 @@ In Africa, food safety is a One Health question and a trade question: what reach
 
 REQUEST A BRIEFING
 PROVEN AT NATIONAL SCALE
-Africa’s food safety strategy stands where another nation stood in 1997. What comes next already exists.
+The way of working is proven. Africa does not pay to build it again.
 
-In 1997 a United States presidential directive called for a national food safety system. Committees, plans and workshops followed, as they have followed the African Union Food Safety Strategy for Africa. The operating system came later, and it began with laboratories: a directory built so laboratories could find one another became the working environment regulators and laboratories shared. When the Food Safety Modernization Act of 2011 wrote an integrated national food safety system into law, the infrastructure to carry it was already operational and being deployed nationally, co-funded by the Food and Drug Administration, the Department of Agriculture and the Department of Homeland Security.
+For more than twenty years, one collaboration infrastructure has connected human health, animal health, food, environmental and emergency response laboratories and teams across United States federal agencies and all fifty states, co-funded by the food safety, agriculture and homeland security authorities.
 
-Over twenty-five years that collaboration infrastructure has grown to connect federal food safety, agriculture and homeland security agencies with the laboratories and regulators of all fifty states, through FoodSHIELD, the Food Emergency Response Network, the National Animal Health Laboratory Network and the Integrated Consortium of Laboratory Networks. It was shaped through real events and real corrective actions by the officials who had to work together through them.
+OACI does not build Africa’s collaboration infrastructure from scratch. It is leveraging the infrastructure proven in the United States: building on it and adapting it to Africa’s own institutions, priorities and needs, as an African system, African-owned and African-governed.
 
-Rapid response teams changed how food emergencies are handled. After the 2006 E. coli event linked to fresh spinach, federal and state investigators were still running parallel, separate investigations, duplicating effort without shared procedures. In 2008 the Food and Drug Administration began funding nine pilot states to build standing, multi-agency teams of federal, state and local regulators, epidemiologists and laboratories, working under a unified command structure agreed before any event, with one aim: shorten the time between notification of a contamination event and effective control. Each team works in its own dedicated portal on the same collaboration technology OACI brings to Africa, with members named in advance, plans and procedures held in one place, and joint training and exercises. Each starts from a capability assessment that names its gaps. After every incident or exercise an after-action report and improvement plan follow, and every action item is tracked to closure. Defined from the start as all-hazards, for food and feed, the program became the model the Food and Drug Administration used to extend federal and state reliance under the Food Safety Modernization Act. Today thirty teams work through their own portals on that technology, and the teams outside the funded program show what the infrastructure carries on its own: standing teams, exercised, measured and improving, without a federal grant behind them.
-
-For Africa the parallel reaches beyond food. Many countries already train public health rapid response teams through integrated disease surveillance and response. What the United States teams added was the standing structure around them: members from several agencies named in advance, one place for plans and procedures, a capability assessment, and every after-action finding tracked to closure. On OACI that structure serves every solution. One standing, cross-domain team is defined once, and at the event the domains it needs activate, whether the finding starts in food, in animals, in people or in the environment.
-
-Those years, and the public investment behind them, are already spent. No African country is asked to spend them again. OACI adapts that record for Africa, and each country shapes it around its own priorities.
-
-OACI began with an African call for this system.
-
-In July 2022, Lucia Anelich of South Africa opened the annual meeting of the International Association for Food Protection with the Ivan Parkin Lecture, “Out of Africa.” She called for harmonised food safety standards across the continent, and pointed to the United States Food Safety Modernization Act as the ideal model: a law that calls for one integrated food safety system, connecting federal, state and local authorities across all fifty states. The idea grew through South Africa’s food safety summit in 2023, laboratory and standards leaders, and the African Union Food Safety Strategy for 2022 to 2036.
-
-In August 2024, Botswana’s first food safety symposium brought together ministries, standards organizations, the African Union, laboratories and field services, and agreed it had to be built. When the approach was presented to African Union member states later that year, participants recognised it as One Health in practice.
-
-From fifty states to fifty-five nations, it began in food safety. Born in Africa, OACI is governed by the African institutions it serves.
+No African country funds the build. What each country contributes goes to adapting and running OACI, and every country that joins lowers the cost for the others. OACI is designed so that what works in one country is carried into the next instead of started again. Development partners and funders can support a country’s use of OACI instead of commissioning another separate build: the funder keeps the credit, the country keeps the capability, and the investment compounds.
 
 THE REALITY
 Food safety is where One Health and trade meet. The gap sits between the institutions that share the work.
@@ -268,7 +256,6 @@ EMERGENCY RESPONSE
 
 - images/food-safety/152b8611-935a-4b5f-8a0c-75745e900ead_compressed_More-Vibrant-Food-Safety-pic-.webp | OACI Food Safety — food safety inspectors collaborating at an African produce market
 - images/food-safety/205da743-6c35-47dc-bd08-5c3f457c1f2a_SVG-Vector-Icons-05.svg | Food Safety
-- images/food-safety/638b0ab99a60d3025256a6909e9a5621.webp | Food safety scientists examining produce samples in a modern laboratory.
 - images/food-safety/406e6403544175d44e9dfff8b87a8693.webp | A farmer standing beside crates of unsold produce at the edge of a field.
 - images/food-safety/be0f4b513d985028bab0aadc93e3a81d.webp | The food journey from farm field through an open-air market to a border inspection post.
 - images/food-safety/3f197a5334fd48c9f4e23cf7b00c0482.webp | A public health inspector checking the hygiene of fresh produce at an open-air market stall.

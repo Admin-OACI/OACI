@@ -150,13 +150,13 @@ The OACI Platform holds this layer on Government-Standard Security. The OACI Pla
 No African country funds the build. What a country contributes goes to adapting and running it, and every country that joins lowers the cost for the others.
 
 PROVEN AT NATIONAL SCALE
-It began with laboratories.
+The way of working is proven. Africa does not pay to build it again.
 
-The collaboration technology OACI brings to Africa began with laboratories. A laboratory network pilot in 2002 proved the concept, and that record earned the funding that extended it to wider food protection and One Health work. For more than 20 years since, laboratory networks have run on it across human, animal, food and environmental laboratories, outlasting the grants, leadership changes and priorities that end most programmes.
+For more than twenty years, one collaboration infrastructure has connected human health, animal health, food, environmental and emergency response laboratories and teams across United States federal agencies and all fifty states, co-funded by the food safety, agriculture and homeland security authorities.
 
-What those years proved is the loop, not the software. A proficiency round or an exercise reveals a gap. The gap gets a name, an owner and a date. If it is competence, training runs and the certificate updates the position. The next round tests whether the fix held.
+OACI does not build Africa’s collaboration infrastructure from scratch. It is leveraging the infrastructure proven in the United States: building on it and adapting it to Africa’s own institutions, priorities and needs, as an African system, African-owned and African-governed.
 
-Public record: FERN · NAHLN · ICLN · VetLIRN · NARMS
+No African country funds the build. What each country contributes goes to adapting and running OACI, and every country that joins lowers the cost for the others. OACI is designed so that what works in one country is carried into the next instead of started again. Development partners and funders can support a country’s use of OACI instead of commissioning another separate build: the funder keeps the credit, the country keeps the capability, and the investment compounds.
 
 CAPABILITIES
 Twelve conditions carry the work, from one bench to a national network.
@@ -284,4 +284,3 @@ EMERGENCY RESPONSE
 - images/laboratory-networks/77b3a480-c536-4ee1-b7fe-5eb23ec1fb5d_compressed_ChatGPT-Image-Jul-24-2026-12_52_12-AM.webp | OACI Collaboration Platform
 - images/laboratory-networks/c972218e-74b8-451b-ad3f-b462fbefe65f_SVG-Vector-Icons-04.svg | Laboratory Networks
 - images/laboratory-networks/84951a3bfe489770a40aae9d37040f24.webp | District laboratory, single analyst at work, modest equipment.
-- images/laboratory-networks/155c68e75dbad155e9485d4c52ec841a.webp | Two analysts from different laboratories comparing a proficiency panel at one bench.

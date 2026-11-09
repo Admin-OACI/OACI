@@ -234,9 +234,11 @@ Illustrative view.
 PROVEN AT NATIONAL SCALE
 The way of working is proven. Africa does not pay to build it again.
 
-The space between institutions has been run as infrastructure for more than twenty years across the United States — the health, agriculture and emergency agencies of all fifty states, co-funded by the Food and Drug Administration, the Department of Agriculture and the Department of Homeland Security, through real events and real corrective actions. Laboratories kept their own authority and their own records, and the signal still moved between them.
+For more than twenty years, one collaboration infrastructure has connected human health, animal health, food, environmental and emergency response laboratories and teams across United States federal agencies and all fifty states, co-funded by the food safety, agriculture and homeland security authorities.
 
-No African country funds that build. OACI is an African-incorporated, African-controlled non-profit that adapts it. What a country contributes goes to adapting and running its own infrastructure, and every country that joins lowers the cost for the others.
+OACI does not build Africa’s collaboration infrastructure from scratch. It is leveraging the infrastructure proven in the United States: building on it and adapting it to Africa’s own institutions, priorities and needs, as an African system, African-owned and African-governed.
+
+No African country funds the build. What each country contributes goes to adapting and running OACI, and every country that joins lowers the cost for the others. OACI is designed so that what works in one country is carried into the next instead of started again. Development partners and funders can support a country’s use of OACI instead of commissioning another separate build: the funder keeps the credit, the country keeps the capability, and the investment compounds.
 
 HOW A COUNTRY BEGINS
 A country enters through its most pressing priority, and grows in whatever direction it needs.

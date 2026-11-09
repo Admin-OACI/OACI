@@ -281,27 +281,13 @@ Every gap closed needs someone trained, qualified and in position. Sustained inf
 UN World Population Prospects 2024
 
 PROVEN AT NATIONAL SCALE
-The mechanics food security needs have run a national system for more than twenty years.
+The way of working is proven. Africa does not pay to build it again.
 
-The infrastructure behind OACI has carried a national integrated food system across all 50 US states for over two decades: federal, state and local agriculture and health agencies, laboratories, academia and industry, each using it for its own mandate. What that record proved was never the directory or the alert. It was the loop: gaps found, owned, fixed and retested, year after year. Food security asks those same mechanics to serve a different set of institutions around a different question. Africa starts with the original vision, every institution using it for its own purposes.
+For more than twenty years, one collaboration infrastructure has connected human health, animal health, food, environmental and emergency response laboratories and teams across United States federal agencies and all fifty states, co-funded by the food safety, agriculture and homeland security authorities.
 
-Directories kept current
-Alerts to named positions
-Workgroups that outlast the event
-Training tied to qualification
-Response exercised in advance
-Safe food is a condition of food security. See Food Safety
-50
+OACI does not build Africa’s collaboration infrastructure from scratch. It is leveraging the infrastructure proven in the United States: building on it and adapting it to Africa’s own institutions, priorities and needs, as an African system, African-owned and African-governed.
 
-US states on one shared system
-
-20+
-
-Years in continuous national operation
-
-35,000
-
-Users on the same collaboration infrastructure
+No African country funds the build. What each country contributes goes to adapting and running OACI, and every country that joins lowers the cost for the others. OACI is designed so that what works in one country is carried into the next instead of started again. Development partners and funders can support a country’s use of OACI instead of commissioning another separate build: the funder keeps the credit, the country keeps the capability, and the investment compounds.
 
 ENTRY POINT
 Start with one warning and the people who act on it.
