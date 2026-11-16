@@ -76,12 +76,72 @@ The space between ministries stays empty because no one owns it. Each budget is 
 
 The gap is not commitment. Eighteen years of signatures and work demonstrate the commitment. The gap is making the operating state of collaboration visible, manageable and sustainable every day, not only during a crisis.
 
+THE RECORD
+
+How the commitment has been carried
+
+1951
+
+AU-IBAR founded in Nairobi, for animal health
+
+1954
+
+Inter-African Phytosanitary Council, for plant health
+
+1985
+
+AMCEN established in Cairo, for environment
+
+2008
+
+Libreville: health and environment ministers from 52 African nations
+
+2010
+
+Luanda: a meeting every two years set as the schedule
+
+2018
+
+Libreville: a ten-year plan adopted
+
+2029
+
+The date that ten-year plan runs to
+
+Each entry is a founding, a meeting or a plan. None of them makes the work continue between meetings.
+
 THE COST
 One health event, held by two ministries.
 
 Health events in Africa do not stay in one domain. A disease that passes from animals to people, a pest that destroys a harvest, a drought that turns into hunger, a contaminated food that closes a market: each is counted by a different institution, yet each reaches the others. Each also reaches trade, livelihoods and the economy, because the health of people, animals, plants and the land is what a country lives on.
 
 Between 20 September and 30 October 2025, Rift Valley fever reached 404 confirmed human cases, including 42 deaths, in Mauritania and Senegal. In the same weeks veterinary services recorded 160 confirmed animal cases in Senegal and reported 62 outbreaks in animals in Mauritania. One event, held by two ministries in each country.
+
+ONE EVENT, TWO MINISTRIES
+
+Rift Valley fever, 20 September to 30 October 2025
+
+COUNTED BY THE HEALTH MINISTRY
+
+404
+
+confirmed human cases, Mauritania and Senegal
+
+42
+
+deaths among those confirmed cases
+
+COUNTED BY THE VETERINARY SERVICE
+
+160
+
+confirmed animal cases recorded in Senegal
+
+62
+
+animal outbreaks reported in Mauritania
+
+One event, counted by a health ministry and a veterinary service, in two countries.
 
 THE SCOPE
 See the full stakeholder landscape.
@@ -359,6 +419,22 @@ The continental strategies call for work across mandates. This is the infrastruc
 
 OACI is designed to support the frameworks of the African Union and Africa CDC, the continental zoonotic disease strategy, the regional One Health strategies, the Quadripartite’s One Health Joint Plan of Action, and each country’s own plan.
 
+DATA SOVEREIGNTY
+
+What stays with the country
+
+Records stay on national servers
+
+Access follows the national data controller’s permissions and roles
+
+Encryption to AES-256
+
+Multi-factor authentication and role-based access
+
+Continuous monitoring
+
+Where records reside and who operates the deployment are set in each country’s agreement.
+
 Government does not see every signal first, and it does not carry the response alone.
 
 Industry often sees a problem in its own product, its own herds or its own supply chain before it reaches a surveillance system. Communities see what is happening where they live before it reaches a clinic. When the response comes, a recall runs through industry, a campaign runs through communities, and a trade decision is carried by exporters. A country that can only work with what its own ministries hold is working with part of the picture and part of the capacity.
@@ -445,7 +521,7 @@ One Health in OACI will be delivered by Africans, for Africa: African experts wh
 - images/one-health/edited_e381e47c244176f0e474a945ac170e0c_bb53fde7.jpg | Animal Health
 - images/one-health/96b9c522-e73a-4bcc-9369-a63db35201a4_compressed_Plant-Health-Services-2-.webp | Plant Health
 - images/one-health/4165a5b2-c58f-42ae-a1ab-3b20c59c320b_compressed_Environmental-Health-3.webp | Environmental Health
-- images/one-health/28ba723a-d98a-461e-8ad7-aa83d5ebbaea_compressed_ChatGPT-Image-Aug-10-2026-08_56_55-AM.webp | Health and environment ministers from 52 African nations at the opening plenary of the First Inter-Ministerial Conference on Health and Environment in Africa, Libreville, Gabon, 2008
+- images/one-health/31095b50eaa80183b5aa5cea5873d1d1.png | Graphic for the First Inter-Ministerial Conference on Health and Environment in Africa, Libreville, Gabon, 2008, showing the flags of 52 African nations and the dates 26 to 29 August 2008
 - images/one-health/e3521d8b50b17670f50a317424cfb50b.webp | Four professionals from different ministries working together at one table
 - images/one-health/6c0dd3d152a387a84fc7980e268c8ead.webp | Person at laptop with colleague in real office
 - images/one-health/ea805e5744892002ba14cd5c55eb4c09.webp | Knowledge system and institutional documentation
