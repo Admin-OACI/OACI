@@ -160,7 +160,7 @@ One event. Five authorities. Each holds a piece. Each keeps its own records.
 WHAT COLLABORATION REQUIRES
 A response team is a standing condition, not a meeting called on the day.
 
-A committee, a phone list, a plan signed years ago: all of it is real, and none of it is a team on the morning an event begins. The operational sense is narrower and harder. Several institutions working the same event, each bringing what only they can see, under the same plan, while each keeps its own mandate entirely.
+A committee, a contact list, a plan signed years ago: all of it is real, and none of it is a team on the morning an event begins. The operational sense is narrower and harder. Several institutions working the same event, each bringing what only they can see, under the same plan, while each keeps its own mandate entirely.
 
 01
 The team exists before the event.
@@ -193,7 +193,7 @@ When those four hold, activation is a step rather than a scramble.
 THE MISSING PIECE
 What is missing is infrastructure for the team between events.
 
-Response authorities have built strong capacity inside each mandate. The work between them still depends on a committee, a phone list and the people who happen to know one another.
+Response authorities have built strong capacity inside each mandate. The work between them still depends on a committee, a contact list and the people who happen to know one another.
 
 No authority can reasonably build that space alone. Whoever builds it funds it, and the others plan around a commitment they do not control. Surge funding is scoped to an event. A programme has a host and an end date.
 

@@ -79,9 +79,9 @@ Reduced Server Costs
 Reduce or remove expensive on-premises servers. The platform team handles technology and security centrally.
 
 03
-Scalable, Pay As You Use
+Already Built, Already Proven
 
-Countries pay only for what they use. Costs adjust to actual usage, giving ministries predictable, manageable budgets.
+More than twenty years of government investment created and proved this infrastructure. A country does not fund that build again; it grows on the platform already in place, and every country that joins lowers the cost for the others.
 
 04
 Data Sovereignty
@@ -96,7 +96,7 @@ The platform connects to what a ministry already runs, preserving existing inves
 06
 Government-Standard Security
 
-End-to-end encryption, multi-factor authentication, and continuous monitoring, built to the same infrastructure and standards as FedRAMP US federal systems.
+End-to-end encryption, multi-factor authentication and continuous monitoring, with the security controls for each deployment set in the country's own agreement.
 
 07
 AU Strategic Alignment
@@ -263,10 +263,10 @@ Time to operational
 Weeks
 2 to 5 years
 Upfront cost
-$0 infrastructure
+No build to fund: already built and proved
 $2M to $10M+
-FedRAMP Security
-Built-in
+Government-Standard Security
+In place from the start
 12 to 18 months to achieve
 IT staff required
 Zero
@@ -286,7 +286,7 @@ Starting from zero
 Skip 5 years of building.
 Start protecting citizens now.
 
-African nations can leapfrog the development cycle and adopt a platform already proven at continental scale.
+African nations can leapfrog the development cycle and adopt a platform already proven at national scale.
 
 Request an ROI Assessment
 Skip years of building. Start collaborating.
@@ -296,6 +296,7 @@ African nations can adopt a platform already proven at national scale and adapt 
 REQUEST A BRIEFING
 EXPLORE SOLUTIONS
 THE SEVEN INTEGRATED SOLUTIONS
+Seven solutions. One connected platform.
 ONE HEALTH
 PUBLIC HEALTH
 FOOD SAFETY
@@ -303,12 +304,6 @@ FOOD SECURITY
 ENVIRONMENTAL HEALTH
 LABORATORY NETWORKS
 EMERGENCY RESPONSE
-
-Ready to protect your nation's food supply?
-
-Start a Pilot Initiative with the OACI Platform today
-
-Request a Briefing
 
 ## Images
 
@@ -327,10 +322,3 @@ Request a Briefing
 - images/platform/26012aa21560a9cce4bdfdb602eb2057.webp | Event Studio: MEETINGS, SCHEDULES & AGENDAS
 - images/platform/64dd8e9a4e181e907f1486d4d9aa61b6.webp | Response Studio: INCIDENTS, ALERTS & EXERCISES
 - images/platform/cd9564f4af602738412d54b9152b28e9.webp | Developer Studio: APIS, INTEGRATIONS & TOOLS
-- images/platform/2022af21-744f-4ef7-9aeb-4b7e77296b15_SVG-Vector-Icons-07-1.svg | One Health
-- images/platform/d2450580-9c16-46d9-b838-4ea7063b8e2d_SVG-Vector-Icons-01.svg | Public Health
-- images/platform/205da743-6c35-47dc-bd08-5c3f457c1f2a_SVG-Vector-Icons-05.svg | Food Safety
-- images/platform/0ae20363-20b5-4a53-827d-28e8e7039064_SVG-Vector-Icons-03.svg | Food Security
-- images/platform/606d6bdf-700e-4979-9acb-9a1e2b5161f3_SVG-Vector-Icons-02-1.svg | Environmental Health
-- images/platform/c972218e-74b8-451b-ad3f-b462fbefe65f_SVG-Vector-Icons-04.svg | Laboratory Networks
-- images/platform/37fc8fc4-3d52-45ab-8f88-5ef652b3f2d3_SVG-Vector-Icons-06.svg | Emergency Response
