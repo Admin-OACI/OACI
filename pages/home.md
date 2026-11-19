@@ -180,7 +180,7 @@ Financing, technical assistance and long-horizon programme partners.
 REQUEST A BRIEFING
 Speak with the OACI Secretariat
 
-Confidential. No obligation. Response within five working days.
+Confidential. No obligation. Tell us where the pressure is — understanding your needs comes first.
 
 ## Images
 

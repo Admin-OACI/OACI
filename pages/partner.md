@@ -20,11 +20,11 @@ Every partner type plays a distinct and essential role. Explore the pathway that
 PARTNERSHIP PATHWAY
 Ministry & Government Partners
 
-Ministries of Health, Agriculture, and Environment form the backbone of OACI's governance. Partner ministries gain access to the full OACI Platform — including the seven integrated solutions, real-time surveillance dashboards, cross-border data sharing protocols, and capacity-building programmes tailored to national priorities. Membership includes a seat on the OACI Steering Committee and priority access to technical assistance missions.
+Ministries of health, agriculture and environment are the institutions OACI serves. Partner ministries gain access to the full OACI Platform — including the seven integrated solutions, real-time surveillance dashboards, cross-border data sharing protocols, and capacity-building programmes tailored to national priorities.
 
 Full OACI Platform access for all national agencies
-Seat on the OACI Steering Committee
-Priority technical assistance and capacity-building missions
+partner.types.ministryGovernment.benefit2
+Technical assistance and capacity-building missions
 Cross-border surveillance and data-sharing protocols
 EXPRESS INTEREST
 PARTNERSHIP PATHWAY
@@ -106,7 +106,7 @@ Through our partnership with GlobalGiving, individuals, companies, and foundatio
 
 Ready to partner with OACI?
 
-Request a confidential partnership briefing. A member of the OACI Secretariat will respond within five working days to discuss the pathway that fits your organisation.
+Request a confidential partnership briefing. Tell us where the pressure is — a member of the OACI Secretariat will reply personally to discuss the pathway that fits your organisation.
 
 EXPLORE PARTNERSHIP OPPORTUNITIES
 

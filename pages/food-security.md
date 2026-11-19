@@ -8,7 +8,9 @@ Africa’s collaboration
 infrastructure built for
 Food Security
 
-Africa's food security is well planned and well funded on paper, yet too little of it outlasts the cycle that paid for it. OACI's shared, cross-use infrastructure turns those plans into daily practice across agriculture, health, trade and environment, so warnings land, gaps close, and what works stays with the country.
+Information sits in silos: warnings go out months ahead, yet the response arrives late. When project funding ends, the work stops. In 2025, over 300 million Africans went hungry; in northeast Nigeria alone, funding cuts closed about 150 nutrition clinics.
+
+Drought, floods, pests and markets cross borders and regions, and so must the answer. Africa does not need more silos; it needs stronger connections. OACI's shared infrastructure is designed to outlast projects, so countries and partners draw on each other's strengths.
 
 EXPLORE OTHER SOLUTIONS
 REQUEST A BRIEFING
@@ -19,17 +21,17 @@ Africa runs serious food security analysis: national early warning units, IPC an
 
 266M
 
-People in acute food insecurity in 2025 across 47 countries and territories with food crises.
+People in acute food insecurity worldwide in 2025, across 47 countries and territories with food crises.
 
 GRFC 2026
 
-2
+3
 
-Famines confirmed in one year for the first time in the report's history. One was in Sudan.
+African countries at risk of famine in 2026: Somalia, South Sudan and Sudan.
 
-GRFC 2026
+GRFC Mid-Year Update 2026
 
-57M
+59M
 
 Children under five in sub-Saharan Africa living in severe child food poverty.
 

@@ -16,8 +16,9 @@ Environmental Health
 Laboratory
 LABORATORY NETWORKS
 Standardize • Prove • Connect • Strengthen
-A result a country can trust,
-before a network that shares it.
+Africa’s collaboration
+infrastructure built for
+Laboratory Networks
 
 Africa's clinical, veterinary, food and environmental laboratories test every day. Shared collaboration infrastructure moves their quality systems from procedures on paper to measured practice at each bench, then lets trusted laboratories work as one national network.
 
